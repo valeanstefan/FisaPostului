@@ -1,10 +1,6 @@
 ﻿using FisaPostului.Domain.Models;
 using FisaPostului.Domain.Repository;
 using FisaPostului.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace FisaPostului.Controllers
