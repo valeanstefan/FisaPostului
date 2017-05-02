@@ -112,13 +112,21 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\Disciplina.cs" />
+    <Compile Include="Database\Program.cs" />
     <Compile Include="Database\DBContext.cs" />
     <Compile Include="Database\Users.cs" />
+    <Compile Include="Models\DisciplinaDto.cs" />
+    <Compile Include="Models\ProgramDto.cs" />
     <Compile Include="Models\UserDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repository\DisciplinaManager.cs" />
     <Compile Include="Repository\IBaseManager.cs" />
+    <Compile Include="Repository\IDisciplinaManager.cs" />
+    <Compile Include="Repository\IProgramManager.cs" />
     <Compile Include="Repository\IRepository.cs" />
     <Compile Include="Repository\IUserManager.cs" />
+    <Compile Include="Repository\ProgramManager.cs" />
     <Compile Include="Repository\Repository.cs" />
     <Compile Include="Repository\UserManager.cs" />
   </ItemGroup>

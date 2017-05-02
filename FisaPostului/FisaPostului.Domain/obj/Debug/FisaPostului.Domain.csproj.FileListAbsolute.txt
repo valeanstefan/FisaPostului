@@ -32,3 +32,38 @@ c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului.Do
 c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului.Domain\bin\Omu.ValueInjecter.xml
 c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.dll
 c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.pdb
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\csc.exe
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\vbc.exe
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\VBCSCompiler.exe
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\FisaPostului.Domain.dll.config
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\FisaPostului.Domain.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\FisaPostului.Domain.pdb
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\EntityFramework.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\EntityFramework.SqlServer.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Ninject.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Ninject.Web.Common.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Ninject.Web.Mvc.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Omu.ValueInjecter.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\WebActivatorEx.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\EntityFramework.xml
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\EntityFramework.SqlServer.xml
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Ninject.xml
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Ninject.Web.Common.xml
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Ninject.Web.Mvc.xml
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Omu.ValueInjecter.pdb
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Omu.ValueInjecter.xml
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.dll
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.pdb

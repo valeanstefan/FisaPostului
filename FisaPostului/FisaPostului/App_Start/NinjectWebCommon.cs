@@ -63,7 +63,9 @@ namespace FisaPostului.App_Start
         /// <param name="kernel">The kernel.</param>
         private static void RegisterServices(IKernel kernel)
         {
-            kernel.Bind<IUserManager>().To<UserManager>();           
+            kernel.Bind<IUserManager>().To<UserManager>();
+            kernel.Bind<IProgramManager>().To<ProgramManager>();
+            kernel.Bind<IDisciplinaManager>().To<DisciplinaManager>();
             kernel.Bind(typeof(IRepository<>)).To(typeof(Repository<>));
         }        
     }
