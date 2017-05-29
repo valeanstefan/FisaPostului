@@ -47,6 +47,7 @@ c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului\bi
 c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului\obj\Debug\FisaPostului.Web.csprojResolveAssemblyReference.cache
 c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului\obj\Debug\FisaPostului.dll
 c:\users\tibi\documents\visual studio 2015\Projects\FisaPostului\FisaPostului\obj\Debug\FisaPostului.pdb
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\obj\Debug\FisaPostului.Web.csprojResolveAssemblyReference.cache
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\bin\roslyn\csc.exe
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
@@ -94,6 +95,5 @@ C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\bin\System.We
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\bin\System.Web.Webpages.Razor.xml
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\bin\System.Web.Helpers.xml
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\bin\System.Web.Mvc.xml
-C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\obj\Debug\FisaPostului.Web.csprojResolveAssemblyReference.cache
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\obj\Debug\FisaPostului.dll
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului\obj\Debug\FisaPostului.pdb

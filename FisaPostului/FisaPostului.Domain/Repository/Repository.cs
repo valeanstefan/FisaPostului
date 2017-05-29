@@ -10,8 +10,8 @@ namespace FisaPostului.Domain.Repository
     public class Repository<T> : IRepository<T> where T : class, new()
     {
         
-        private DBContext _context;
-        public Repository(DBContext context)
+        private DatabaseContext _context;
+        public Repository(DatabaseContext context)
         {
             this._context = context;
         }

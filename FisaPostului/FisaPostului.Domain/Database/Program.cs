@@ -24,5 +24,8 @@ namespace FisaPostului.Domain.Database
 
         [Key]
         public int id_program { get; set; }
+
+        [StringLength(100)]
+        public string domeniu_studii { get; set; }
     }
 }

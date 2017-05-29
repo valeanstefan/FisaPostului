@@ -109,12 +109,14 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Database\DatabaseContext.cs" />
     <Compile Include="Database\Disciplina.cs" />
     <Compile Include="Database\Program.cs" />
-    <Compile Include="Database\DBContext.cs" />
     <Compile Include="Database\Users.cs" />
     <Compile Include="Models\DisciplinaDto.cs" />
     <Compile Include="Models\ProgramDto.cs" />

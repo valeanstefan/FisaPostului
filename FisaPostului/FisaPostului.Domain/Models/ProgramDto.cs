@@ -19,6 +19,9 @@ namespace FisaPostului.Domain.Models
         [StringLength(50)]
         public string ciclu_studii { get; set; }
 
+        [StringLength(50)]
+        public string domeniu_studii { get; set; }
+
         [StringLength(100)]
         public string specializarea { get; set; }
 
