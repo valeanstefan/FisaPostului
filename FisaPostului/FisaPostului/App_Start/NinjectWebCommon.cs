@@ -12,6 +12,8 @@ namespace FisaPostului.App_Start
     using Ninject.Web.Common;
     using Domain.Repository;
     using Domain.Database;
+    using FisaPostului.Domain.BusinessHandler.Contracts;
+    using FisaPostului.Domain.BusinessHandler;
 
     public static class NinjectWebCommon 
     {

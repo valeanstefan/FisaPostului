@@ -1,4 +1,5 @@
-﻿using FisaPostului.Domain.Models;
+﻿using FisaPostului.Domain.BusinessHandler.Contracts;
+using FisaPostului.Domain.Models;
 using FisaPostului.Domain.Repository;
 using FisaPostului.Models;
 using System.Web.Mvc;

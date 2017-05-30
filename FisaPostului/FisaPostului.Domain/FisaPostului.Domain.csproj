@@ -114,23 +114,43 @@
     </Content>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BusinessHandler\ConditiiManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IDisciplinaManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IHandler.cs" />
+    <Compile Include="BusinessHandler\Contracts\IProgramManager.cs" />
+    <Compile Include="BusinessHandler\Handler.cs" />
+    <Compile Include="BusinessHandler\ProgramManager.cs" />
+    <Compile Include="Database\conditii.cs" />
+    <Compile Include="Database\continuturi.cs" />
     <Compile Include="Database\DatabaseContext.cs" />
-    <Compile Include="Database\Disciplina.cs" />
-    <Compile Include="Database\Program.cs" />
-    <Compile Include="Database\Users.cs" />
+    <Compile Include="Database\date_disciplina.cs" />
+    <Compile Include="Database\date_program.cs" />
+    <Compile Include="Database\evaluare.cs" />
+    <Compile Include="Database\obiectiv_disciplina.cs" />
+    <Compile Include="Database\ore_tip_activitate.cs" />
+    <Compile Include="Database\repartizare_ore.cs" />
+    <Compile Include="Database\timp_total_estimat.cs" />
+    <Compile Include="Database\tip_evaluare.cs" />
+    <Compile Include="Database\user.cs" />
+    <Compile Include="Models\ConditiiDto.cs" />
+    <Compile Include="Models\ContinuturiDto.cs" />
     <Compile Include="Models\DisciplinaDto.cs" />
+    <Compile Include="Models\EvaluareDto.cs" />
+    <Compile Include="Models\ObiectivDisciplinaDto.cs" />
+    <Compile Include="Models\ObiectivDto.cs" />
+    <Compile Include="Models\OreTipActivitateDto.cs" />
     <Compile Include="Models\ProgramDto.cs" />
+    <Compile Include="Models\RepartizareOreDto.cs" />
+    <Compile Include="Models\TimpTotalEstimatDto.cs" />
+    <Compile Include="Models\TipEvaluareDto.cs" />
     <Compile Include="Models\UserDto.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repository\DisciplinaManager.cs" />
-    <Compile Include="Repository\IBaseManager.cs" />
-    <Compile Include="Repository\IDisciplinaManager.cs" />
-    <Compile Include="Repository\IProgramManager.cs" />
+    <Compile Include="BusinessHandler\DisciplinaManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IConditiiManager.cs" />
     <Compile Include="Repository\IRepository.cs" />
-    <Compile Include="Repository\IUserManager.cs" />
-    <Compile Include="Repository\ProgramManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IUserManager.cs" />
     <Compile Include="Repository\Repository.cs" />
-    <Compile Include="Repository\UserManager.cs" />
+    <Compile Include="BusinessHandler\UserManager.cs" />
   </ItemGroup>
   <ItemGroup />
   <PropertyGroup>

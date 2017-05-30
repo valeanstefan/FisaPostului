@@ -5,7 +5,7 @@ namespace FisaPostului.Domain.Database
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
-
+    [Table("date_disciplina",Schema ="dbo")]
     public partial class Disciplina
     {
         [StringLength(100)]

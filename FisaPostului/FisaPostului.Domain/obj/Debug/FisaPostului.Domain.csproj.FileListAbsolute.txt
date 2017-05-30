@@ -66,3 +66,4 @@ C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Om
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\bin\Omu.ValueInjecter.xml
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.dll
 C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.pdb
+C:\Users\stefa\Source\Repos\FisaPostului\FisaPostului\FisaPostului.Domain\obj\Debug\FisaPostului.Domain.csprojResolveAssemblyReference.cache

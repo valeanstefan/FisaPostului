@@ -1,4 +1,5 @@
-﻿using FisaPostului.Domain.Models;
+﻿using FisaPostului.Domain.BusinessHandler.Contracts;
+using FisaPostului.Domain.Models;
 using FisaPostului.Domain.Repository;
 using FisaPostului.Helpers;
 using FisaPostului.Models;
@@ -27,7 +28,7 @@ namespace FisaPostului.Controllers
         // GET: Home
         public ActionResult Index()
         {
-            var users = _userManager.GetAllUsers();
+            var users = _userManager.GetAll();
             List<String> jsons = new List<String>();
             foreach(var user in users)
             {

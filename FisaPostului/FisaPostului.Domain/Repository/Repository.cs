@@ -8,8 +8,7 @@ using System.Web;
 namespace FisaPostului.Domain.Repository
 {
     public class Repository<T> : IRepository<T> where T : class, new()
-    {
-        
+    {        
         private DatabaseContext _context;
         public Repository(DatabaseContext context)
         {

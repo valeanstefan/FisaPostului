@@ -5,7 +5,7 @@ namespace FisaPostului.Domain.Database
     using System.ComponentModel.DataAnnotations;
     using System.ComponentModel.DataAnnotations.Schema;
     using System.Data.Entity.Spatial;
-
+    [Table("date_program",Schema ="dbo")]
     public partial class Program
     {
         public string institutie_invatamant_superior { get; set; }
