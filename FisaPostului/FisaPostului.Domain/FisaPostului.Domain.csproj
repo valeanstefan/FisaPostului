@@ -115,11 +115,25 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessHandler\ConditiiManager.cs" />
+    <Compile Include="BusinessHandler\ContinuturiManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IContinuturiManager.cs" />
     <Compile Include="BusinessHandler\Contracts\IDisciplinaManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IEvaluareManager.cs" />
     <Compile Include="BusinessHandler\Contracts\IHandler.cs" />
+    <Compile Include="BusinessHandler\Contracts\IObiectivDisciplinaManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IOreTipActivitateManager.cs" />
     <Compile Include="BusinessHandler\Contracts\IProgramManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\IRepartizareOreManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\ITimpTotalEstimatManager.cs" />
+    <Compile Include="BusinessHandler\Contracts\ITipEvaluareManager.cs" />
+    <Compile Include="BusinessHandler\EvaluareManager.cs" />
     <Compile Include="BusinessHandler\Handler.cs" />
+    <Compile Include="BusinessHandler\ObiectivDisciplinaManager.cs" />
+    <Compile Include="BusinessHandler\OreTipActivitateManager.cs" />
     <Compile Include="BusinessHandler\ProgramManager.cs" />
+    <Compile Include="BusinessHandler\RepartizareOreManager.cs" />
+    <Compile Include="BusinessHandler\TimpTotalEstimatManager.cs" />
+    <Compile Include="BusinessHandler\TipEvaluareManager.cs" />
     <Compile Include="Database\conditii.cs" />
     <Compile Include="Database\continuturi.cs" />
     <Compile Include="Database\DatabaseContext.cs" />
@@ -137,7 +151,6 @@
     <Compile Include="Models\DisciplinaDto.cs" />
     <Compile Include="Models\EvaluareDto.cs" />
     <Compile Include="Models\ObiectivDisciplinaDto.cs" />
-    <Compile Include="Models\ObiectivDto.cs" />
     <Compile Include="Models\OreTipActivitateDto.cs" />
     <Compile Include="Models\ProgramDto.cs" />
     <Compile Include="Models\RepartizareOreDto.cs" />

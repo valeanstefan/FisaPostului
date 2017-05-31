@@ -6,6 +6,7 @@ using FisaPostului.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text;
 using System.Web;
 using System.Web.Mvc;
 
@@ -53,6 +54,7 @@ namespace FisaPostului.Controllers
         [HttpPost]
         public ActionResult Create(FisaViewModel model)
         {
+            _jsonHelper.ToJson(model);
             if (ModelState.IsValid) { 
 
                 ProgramDto program = new ProgramDto
@@ -81,7 +83,25 @@ namespace FisaPostului.Controllers
                 _programManager.Insert(program);                
             }
 
-            return View("Index");
+            return Json(model, JsonRequestBehavior.AllowGet);
         }
+        
+        public ActionResult List()
+        {
+            var listOfPrograms = _programManager.GetAll();
+            return View(listOfPrograms);
+        }
+
+        public ActionResult ToJson(int id)
+        {
+
+            var program = _programManager.GetById(id);
+          
+            byte[] fileBytes = Encoding.ASCII.GetBytes(_jsonHelper.ToJson(program));
+            string fileName = "output.json";
+
+            return File(fileBytes, System.Net.Mime.MediaTypeNames.Application.Octet, fileName);
+        }
+
     }
 }

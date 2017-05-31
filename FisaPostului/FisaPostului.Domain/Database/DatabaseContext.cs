@@ -158,5 +158,7 @@ namespace FisaPostului.Domain.Database
                 .Property(e => e.email)
                 .IsUnicode(false);
         }
+
+        public System.Data.Entity.DbSet<FisaPostului.Domain.Models.ProgramDto> ProgramDtoes { get; set; }
     }
 }
